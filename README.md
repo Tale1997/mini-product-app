@@ -1,7 +1,7 @@
 # Product App
 
 A mini React application focused on performance optimization, clean architecture,
-and scalable state management using modern React patterns.
+and scalable state management using modern React patterns. 
 
 ---
 
